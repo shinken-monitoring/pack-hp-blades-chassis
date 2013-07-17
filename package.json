@@ -4,7 +4,7 @@
 	"version": "1.4",
 	"homepage": "https://github.com/shinken-monitoring/pack-hp-blades-chassis",
 	"author": "Jean Gabes",
-	"description": "",
+	"description": "Checks for HP Blade (C7000) chassis",
 	"contributors": [
 	  {
 		"name": "Jean Gabes",
@@ -18,6 +18,10 @@
 	"repository": "https://github.com/shinken-monitoring/pack-hp-blades-chassis",
 	"keywords": [
 	  "pack",
+	  "hp",
+	  "c7000",
+	  "blade",
+	  "chassis"
 	  
 	],
 	"dependencies": {
